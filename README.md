@@ -5,6 +5,8 @@ Using Python, PySide6, Qt, QML, OpenCV
 ----------------------------------
 In this repository, I prepared a sample to use QAbstractListModel and QQuickPaintedItem in python.
 
+You can use this code in you computer vision projects and show the images to the users after performing the required processing.
+
 ### QAbstractListModel
 To use as an input model for ListView or GridView and link python lists to QML objects.
 
