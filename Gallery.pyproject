@@ -1,0 +1,15 @@
+{
+    "files":
+        [
+        "main.py",
+        "main.qml",
+        "Icons/logo.png",
+        "Icons/folder.png",
+        "Icons/close.png",
+        "Qml/Topbar.qml",
+        "Qml/IconButton.qml",
+        "Qml/Gallery.qml",
+        "Model/model.py",
+        "Model/pictureViewPort.py"
+        ]
+}
